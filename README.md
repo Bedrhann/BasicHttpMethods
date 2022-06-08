@@ -1,2 +1,2 @@
 # BasicHttpMethods
-BasicHttpMethods project for my bootcamp week 1 task
+A Restful API that includes basic HTTP methods and generates fake data with BOGUS to work with
